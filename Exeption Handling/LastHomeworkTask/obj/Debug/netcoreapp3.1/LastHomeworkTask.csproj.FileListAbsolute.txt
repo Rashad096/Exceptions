@@ -1,0 +1,14 @@
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\bin\Debug\netcoreapp3.1\LastHomeworkTask.exe
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\bin\Debug\netcoreapp3.1\LastHomeworkTask.deps.json
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\bin\Debug\netcoreapp3.1\LastHomeworkTask.runtimeconfig.json
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\bin\Debug\netcoreapp3.1\LastHomeworkTask.runtimeconfig.dev.json
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\bin\Debug\netcoreapp3.1\LastHomeworkTask.dll
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\bin\Debug\netcoreapp3.1\LastHomeworkTask.pdb
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\obj\Debug\netcoreapp3.1\LastHomeworkTask.csproj.AssemblyReference.cache
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\obj\Debug\netcoreapp3.1\LastHomeworkTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\obj\Debug\netcoreapp3.1\LastHomeworkTask.AssemblyInfoInputs.cache
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\obj\Debug\netcoreapp3.1\LastHomeworkTask.AssemblyInfo.cs
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\obj\Debug\netcoreapp3.1\LastHomeworkTask.csproj.CoreCompileInputs.cache
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\obj\Debug\netcoreapp3.1\LastHomeworkTask.dll
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\obj\Debug\netcoreapp3.1\LastHomeworkTask.pdb
+C:\Users\abbas\source\repos\Exeption Handling\LastHomeworkTask\obj\Debug\netcoreapp3.1\LastHomeworkTask.genruntimeconfig.cache
